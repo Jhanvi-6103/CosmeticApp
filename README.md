@@ -27,9 +27,6 @@ An Android application built using **Java** and **Firebase** that helps users ma
    ```bash
    git clone https://github.com/your-username/CosmeticApp.git
    Open the project in Android Studio.
-
 2. Connect your Firebase project:
-
 3. Add google-services.json to the app/ directory.
-
-4.Sync Gradle and run the app on an emulator or a real device.
+4. Sync Gradle and run the app on an emulator or a real device.
