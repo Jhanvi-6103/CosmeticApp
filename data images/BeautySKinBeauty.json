@@ -1,0 +1,265 @@
+{
+  "BeautyTips": {
+    "Daily Skin Care Routine": [
+      {
+        "title": "Morning Cleanser",
+        "description": "Use a gentle cleanser to wash away oils.",
+        "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524358/Morning_Cleanser_xkxguj.jpg"
+      },
+      {
+        "title": "Moisturizer",
+        "description": "Apply lightweight moisturizer after cleansing.",
+        "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524356/Moisturizer_ntzhgh.jpg"
+      },
+      {
+        "title": "Sunscreen",
+        "description": "Use sunscreen every day to protect your skin.",
+        "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524359/Sunscreen_vmlo66.jpg"
+      },
+      {
+        "title": "Night Cream",
+        "description": "Apply nourishing night cream before bed.",
+        "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524358/Night_Cream_ygxb3m.jpg"
+      }
+    ],
+    "Makeup Tips": [
+      {
+        "title": "Primer Use",
+        "description": "Always use primer before makeup.",
+        "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524357/Primer_Use_yh9jop.jpg"
+      },
+      {
+        "title": "Blending Technique",
+        "description": "Blend your foundation smoothly for a natural look.",
+        "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524356/Blending_Technique_ovmphf.jpg"
+      },
+      {
+        "title": "Remove Makeup",
+        "description": "Always remove makeup before going to bed.",
+        "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524357/Remove_Makeup_xcwngm.jpg"
+      }
+    ],
+    "Natural DIY Beauty Tips": [
+      {
+        "title": "Honey Face Mask",
+        "description": "Use honey as a face mask for natural glow.",
+        "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524357/Honey_Face_Mask_abqnhw.jpg"
+      },
+      {
+        "title": "Cucumber for Eyes",
+        "description": "Place cucumber slices on eyes to reduce puffiness.",
+        "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524356/Cucumber_eyes_vh9gkz.jpg"
+      }
+    ],
+    "Product Usage Tips": [
+      {
+        "title": "Use Non-Comedogenic Products",
+        "description": "Choose products that won’t clog pores.",
+        "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524358/Use_Non-Comedogenic_Products_k01u2r.jpg"
+      },
+      {
+        "title": "Patch Test",
+        "description": "Always do a patch test before using a new product.",
+        "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524357/Patch_Test_uwqs7a.jpg"
+      }
+    ],
+    "Hygiene Tips": [
+      {
+        "title": "Clean Brushes Regularly",
+        "description": "Clean your makeup brushes weekly to avoid bacteria.",
+        "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524356/Clean_Brushes_Regularly_vh3ws0.jpg"
+      },
+      {
+        "title": "Change Pillowcases",
+        "description": "Change your pillowcases often to prevent breakouts.",
+        "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524358/Change_Pillowcases_tx6b8b.jpg"
+      }
+    ]
+  },
+  "products": {
+    "product1": {
+      "id": "p001",
+      "name": "Glow Serum",
+      "category": "Skincare",
+      "price": 899,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439755/Glow_Serum_uzbmqu.jpg",
+      "rating": 4.6,
+      "description": "Boosts radiance and hydrates skin."
+    },
+    "product2": {
+      "id": "p002",
+      "name": "Kajal Stick",
+      "category": "Makeup",
+      "price": 199,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439755/Kajal_Stick_xxjlsf.jpg",
+      "rating": 4.7,
+      "description": "Smudge-proof and waterproof for all-day wear."
+    },
+    "product3": {
+      "id": "p003",
+      "name": "Hair Fall Control Shampoo",
+      "category": "Haircare",
+      "price": 349,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439755/Hair_Fall_Control_Shampoo_wppsvc.jpg",
+      "rating": 4.4,
+      "description": "Enriched with natural proteins to reduce hair fall."
+    },
+    "product4": {
+      "id": "p004",
+      "name": "Matte Lipstick - Rose Red",
+      "category": "Makeup",
+      "price": 299,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439756/Matte_Lipstick_-_Rose_Red_mhdofo.jpg",
+      "rating": 4.8,
+      "description": "Bold matte finish with long-lasting color."
+    },
+    "product5": {
+      "id": "p005",
+      "name": "Aloe Vera Gel",
+      "category": "Skincare",
+      "price": 149,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439754/Aloe_Vera_Gel_feoyav.jpg",
+      "rating": 4.3,
+      "description": "Soothes and cools skin naturally."
+    },
+    "product6": {
+      "id": "p006",
+      "name": "Dry Shampoo Spray",
+      "category": "Haircare",
+      "price": 599,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439755/Dry_Shampoo_Spray_xpel9l.jpg",
+      "rating": 4.5,
+      "description": "Instant refresh without water. Adds volume."
+    },
+    "product7": {
+      "id": "p007",
+      "name": "Sunscreen SPF 50",
+      "category": "Skincare",
+      "price": 499,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439756/Sunscreen_SPF_50_kop8zm.jpg",
+      "rating": 4.7,
+      "description": "Protects against harmful UVA/UVB rays."
+    },
+    "product8": {
+      "id": "p008",
+      "name": "Volumizing Mascara",
+      "category": "Makeup",
+      "price": 399,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439756/Volumizing_Mascara_xs8n8h.jpg",
+      "rating": 4.6,
+      "description": "Adds volume and definition to lashes."
+    },
+    "product9": {
+      "id": "p009",
+      "name": "Face Wash - Neem & Tea Tree",
+      "category": "Skincare",
+      "price": 249,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439755/Face_Wash_-_Neem_Tea_Tree_icmkki.jpg",
+      "rating": 4.4,
+      "description": "Cleanses oily skin and prevents acne."
+    },
+    "product10": {
+      "id": "p010",
+      "name": "Beauty Blender Sponge",
+      "category": "Tools",
+      "price": 99,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439754/Beauty_Blender_Sponge_siu7vt.jpg",
+      "rating": 4.2,
+      "description": "Blends foundation seamlessly."
+    }
+  },
+  "skinTypeQuiz": [
+    {
+      "question": "How does your skin feel after washing with a cleanser?",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750582460/q1_cleanser_jaojam.jpg",
+      "options": [
+        { "text": "Tight or dry", "type": "Dry" },
+        { "text": "Smooth and comfortable", "type": "Normal" },
+        { "text": "Oily or shiny", "type": "Oily" },
+        { "text": "Dry in some areas and oily in others", "type": "Combination" }
+      ]
+    },
+    {
+      "question": "How often do you experience breakouts?",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750582460/q2_breakouts_qf8lmt.jpg",
+      "options": [
+        { "text": "Rarely", "type": "Normal" },
+        { "text": "Frequently", "type": "Oily" },
+        { "text": "Only in T-zone", "type": "Combination" },
+        { "text": "Very often with redness or irritation", "type": "Sensitive" }
+      ]
+    },
+    {
+      "question": "How does your skin look by midday?",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750582461/q3_midday_skin_opca1w.jpg",
+      "options": [
+        { "text": "Dry or flaky", "type": "Dry" },
+        { "text": "Balanced and smooth", "type": "Normal" },
+        { "text": "Shiny or greasy", "type": "Oily" },
+        { "text": "Oily in some areas, dry in others", "type": "Combination" }
+      ]
+    },
+    {
+      "question": "How does your skin react to new products?",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750582462/q4_product_reaction_qnfuiz.jpg",
+      "options": [
+        { "text": "It gets dry or tight", "type": "Dry" },
+        { "text": "No reaction", "type": "Normal" },
+        { "text": "Becomes greasy or shiny", "type": "Oily" },
+        { "text": "Gets irritated, red, or itchy", "type": "Sensitive" }
+      ]
+    },
+    {
+      "question": "What skin concerns do you often face?",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750582462/q4_concerns_ny8qbk.jpg",
+      "options": [
+        { "text": "Dry patches", "type": "Dry" },
+        { "text": "None", "type": "Normal" },
+        { "text": "Enlarged pores", "type": "Oily" },
+        { "text": "Redness or rashes", "type": "Sensitive" }
+      ]
+    },
+    {
+      "question": "How would you describe your skin texture?",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750582463/q5__texture_ulrivw.jpg",
+      "options": [
+        { "text": "Rough or flaky", "type": "Dry" },
+        { "text": "Smooth", "type": "Normal" },
+        { "text": "Greasy", "type": "Oily" },
+        { "text": "Both dry and oily areas", "type": "Combination" }
+      ]
+    },
+    {
+      "question": "Do you experience irritation or sensitivity?",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750582463/q6_irritation_ebbbaa.jpg",
+      "options": [
+        { "text": "No", "type": "Normal" },
+        { "text": "Sometimes", "type": "Combination" },
+        { "text": "Rarely", "type": "Oily" },
+        { "text": "Very frequently", "type": "Sensitive" }
+      ]
+    }
+  ],
+  "skinTypeResults": {
+    "Dry": {
+      "description": "Your skin type is Dry. It often feels tight and may look dull or rough. Use hydrating and moisturizing products regularly.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750582458/Dry_Skin_Result_qsrymx.jpg"
+    },
+    "Oily": {
+      "description": "Your skin type is Oily. It looks shiny and is prone to acne or blackheads. Use oil-free and mattifying products.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750582459/Oily_Skin_Result_joqnge.jpg"
+    },
+    "Combination": {
+      "description": "You have Combination skin. Some areas (like T-zone) are oily while others are dry. Use balanced products for both types.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750582458/Combination_Skin_Result_hao8ds.jpg"
+    },
+    "Normal": {
+      "description": "Your skin type is Normal. It’s well-balanced and doesn't have major issues. Maintain it with a basic skincare routine.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750582459/Normal_Skin_Result_xhsxxr.jpg"
+    },
+    "Sensitive": {
+      "description": "You have Sensitive skin. It reacts easily with redness or itching. Use gentle and fragrance-free products.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750582464/Sensitive_Skin_Result_gds3bz.jpg"
+    }
+  }
+}

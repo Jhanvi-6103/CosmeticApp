@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAFAFA"
+    android:padding="16dp"
+    android:layout_marginTop="30dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Favorite and Cart Icons -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="end"
+            android:paddingBottom="8dp">
+
+            <ImageView
+                android:id="@+id/favIcon"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/favourite"
+                android:padding="6dp"
+                android:contentDescription="Favorite" />
+
+            <ImageView
+                android:id="@+id/cartIcon"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/cart"
+                android:padding="6dp"
+                android:contentDescription="Cart" />
+        </LinearLayout>
+
+        <!-- Product Image -->
+        <ImageView
+            android:id="@+id/productImage"
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="Product Image" />
+
+        <!-- Name -->
+        <TextView
+            android:id="@+id/productName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Product Name"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginBottom="4dp" />
+
+        <!-- Price -->
+        <TextView
+            android:id="@+id/productPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="₹999"
+            android:textSize="18sp"
+            android:textColor="#FF4081"
+            android:layout_marginBottom="4dp" />
+
+        <!-- Rating -->
+        <TextView
+            android:id="@+id/productRating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rating: 4.5"
+            android:textSize="16sp"
+            android:textColor="#444444"
+            android:layout_marginBottom="12dp" />
+
+        <!-- Description -->
+        <TextView
+            android:id="@+id/productDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Product Description"
+            android:textSize="16sp"
+            android:textColor="#444444"
+            android:layout_marginBottom="12dp" />
+
+        <!-- How to Use -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="How to Use"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:layout_marginBottom="4dp" />
+
+        <TextView
+            android:id="@+id/productHowToUse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Apply gently and massage twice daily."
+            android:textSize="15sp"
+            android:textColor="#444444"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Reviews -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reviews"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:layout_marginBottom="4dp" />
+
+        <TextView
+            android:id="@+id/productReviews"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="⭐⭐⭐⭐☆\nGreat product! Smells amazing and works well."
+            android:textSize="15sp"
+            android:textColor="#444444"
+            android:layout_marginBottom="24dp" />
+
+        <!-- Buy Now Button -->
+        <Button
+            android:id="@+id/buyNowButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Buy Now"
+            android:textSize="16sp"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#FF4081"
+            android:padding="12dp"
+            android:layout_marginTop="8dp" />
+    </LinearLayout>
+</ScrollView>

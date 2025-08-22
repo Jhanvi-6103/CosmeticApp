@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "935945786276",
+    "firebase_url": "https://cosmetic-app-759e1-default-rtdb.firebaseio.com",
+    "project_id": "cosmetic-app-759e1",
+    "storage_bucket": "cosmetic-app-759e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935945786276:android:12370e356814b277f92731",
+        "android_client_info": {
+          "package_name": "com.app.cosmeticapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC16F6yzKNieKTGqxbLGiaOK6-erG04Wwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

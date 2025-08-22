@@ -1,0 +1,77 @@
+{
+  "Daily Skin Care Routine": [
+    {
+      "title": "Morning Cleanser",
+      "description": "Use a gentle cleanser to wash away oils.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524358/Morning_Cleanser_xkxguj.jpg"
+    },
+    {
+      "title": "Moisturizer",
+      "description": "Apply lightweight moisturizer after cleansing.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524356/Moisturizer_ntzhgh.jpg"
+    },
+    {
+      "title": "Sunscreen",
+      "description": "Use sunscreen every day to protect your skin.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524359/Sunscreen_vmlo66.jpg"
+    },
+    {
+      "title": "Night Cream",
+      "description": "Apply nourishing night cream before bed.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524358/Night_Cream_ygxb3m.jpg"
+    }
+  ],
+  "Makeup Tips": [
+    {
+      "title": "Primer Use",
+      "description": "Always use primer before makeup.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524357/Primer_Use_yh9jop.jpg"
+    },
+    {
+      "title": "Blending Technique",
+      "description": "Blend your foundation smoothly for a natural look.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524356/Blending_Technique_ovmphf.jpg"
+    },
+    {
+      "title": "Remove Makeup",
+      "description": "Always remove makeup before going to bed.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524357/Remove_Makeup_xcwngm.jpg"
+    }
+  ],
+  "Natural DIY Beauty Tips": [
+    {
+      "title": "Honey Face Mask",
+      "description": "Use honey as a face mask for natural glow.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524357/Honey_Face_Mask_abqnhw.jpg"
+    },
+    {
+      "title": "Cucumber for Eyes",
+      "description": "Place cucumber slices on eyes to reduce puffiness.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524356/Cucumber_eyes_vh9gkz.jpg"
+    }
+  ],
+  "Product Usage Tips": [
+    {
+      "title": "Use Non-Comedogenic Products",
+      "description": "Choose products that won\u2019t clog pores.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524358/Use_Non-Comedogenic_Products_k01u2r.jpg"
+    },
+    {
+      "title": "Patch Test",
+      "description": "Always do a patch test before using a new product.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524357/Patch_Test_uwqs7a.jpg"
+    }
+  ],
+  "Hygiene Tips": [
+    {
+      "title": "Clean Brushes Regularly",
+      "description": "Clean your makeup brushes weekly to avoid bacteria.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524356/Clean_Brushes_Regularly_vh3ws0.jpg"
+    },
+    {
+      "title": "Change Pillowcases",
+      "description": "Change your pillowcases often to prevent breakouts.",
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750524358/Change_Pillowcases_tx6b8b.jpg"
+    }
+  ]
+}

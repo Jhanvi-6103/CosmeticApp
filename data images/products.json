@@ -1,0 +1,94 @@
+{
+  "products": {
+    "product1": {
+      "id": "p001",
+      "name": "Glow Serum",
+      "category": "Skincare",
+      "price": 899,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439755/Glow_Serum_uzbmqu.jpg",
+      "rating": 4.6,
+      "description": "Boosts radiance and hydrates skin."
+    },
+    "product2": {
+      "id": "p002",
+      "name": "Kajal Stick",
+      "category": "Makeup",
+      "price": 199,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439755/Kajal_Stick_xxjlsf.jpg",
+      "rating": 4.7,
+      "description": "Smudge-proof and waterproof for all-day wear."
+    },
+    "product3": {
+      "id": "p003",
+      "name": "Hair Fall Control Shampoo",
+      "category": "Haircare",
+      "price": 349,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439755/Hair_Fall_Control_Shampoo_wppsvc.jpg",
+      "rating": 4.4,
+      "description": "Enriched with natural proteins to reduce hair fall."
+    },
+    "product4": {
+      "id": "p004",
+      "name": "Matte Lipstick - Rose Red",
+      "category": "Makeup",
+      "price": 299,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439756/Matte_Lipstick_-_Rose_Red_mhdofo.jpg",
+      "rating": 4.8,
+      "description": "Bold matte finish with long-lasting color."
+    },
+    "product5": {
+      "id": "p005",
+      "name": "Aloe Vera Gel",
+      "category": "Skincare",
+      "price": 149,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439754/Aloe_Vera_Gel_feoyav.jpg",
+      "rating": 4.3,
+      "description": "Soothes and cools skin naturally."
+    },
+    "product6": {
+      "id": "p006",
+      "name": "Dry Shampoo Spray",
+      "category": "Haircare",
+      "price": 599,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439755/Dry_Shampoo_Spray_xpel9l.jpg",
+      "rating": 4.5,
+      "description": "Instant refresh without water. Adds volume."
+    },
+    "product7": {
+      "id": "p007",
+      "name": "Sunscreen SPF 50",
+      "category": "Skincare",
+      "price": 499,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439756/Sunscreen_SPF_50_kop8zm.jpg",
+      "rating": 4.7,
+      "description": "Protects against harmful UVA/UVB rays."
+    },
+    "product8": {
+      "id": "p008",
+      "name": "Volumizing Mascara",
+      "category": "Makeup",
+      "price": 399,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439756/Volumizing_Mascara_xs8n8h.jpg",
+      "rating": 4.6,
+      "description": "Adds volume and definition to lashes."
+    },
+    "product9": {
+      "id": "p009",
+      "name": "Face Wash - Neem & Tea Tree",
+      "category": "Skincare",
+      "price": 249,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439755/Face_Wash_-_Neem_Tea_Tree_icmkki.jpg",
+      "rating": 4.4,
+      "description": "Cleanses oily skin and prevents acne."
+    },
+    "product10": {
+      "id": "p010",
+      "name": "Beauty Blender Sponge",
+      "category": "Tools",
+      "price": 99,
+      "imageUrl": "https://res.cloudinary.com/dwghye8ir/image/upload/v1750439754/Beauty_Blender_Sponge_siu7vt.jpg",
+      "rating": 4.2,
+      "description": "Blends foundation seamlessly."
+    }
+  }
+}

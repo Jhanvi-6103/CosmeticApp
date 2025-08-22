@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Pressed state (purple background) -->
+    <item android:drawable="@color/purple_200" android:state_pressed="true"/>
+
+    <!-- Default state (white circle with border) -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#FFFFFF"/>
+            <stroke android:width="2dp" android:color="#DDDDDD"/>
+        </shape>
+    </item>
+</selector>

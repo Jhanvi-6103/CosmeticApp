@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CosmeticApp</string>
+    <string name="quiz_title">Skin Type Quiz</string>
+    <string name="next">Next</string>
+</resources>

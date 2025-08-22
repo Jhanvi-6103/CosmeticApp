@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAFAFA">
+
+    <!-- Top Toolbar -->
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/topAppBar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:backgroundTint="#FFFFFF"
+        android:title="Cosmetic App"
+        android:layout_marginTop="20dp"
+        android:titleTextColor="#000000"
+        app:titleCentered="true"
+        app:menu="@menu/top_bar_menu"/>
+
+    <!-- Content Below Toolbar -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:gravity="center">
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:columnCount="2"
+            android:alignmentMode="alignMargins"
+            android:useDefaultMargins="true"
+            android:padding="16dp">
+
+            <!-- Explore Products -->
+
+            <!-- Profile -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_row="0"
+                android:layout_column="0"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:padding="10dp">
+
+                <ImageView
+                    android:id="@+id/exploreBtn"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:background="@drawable/image_button_bg"
+                    android:contentDescription="Explore"
+                    android:padding="12dp"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/explore" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:text="Explore"
+                    android:textColor="#000000"
+                    android:textSize="14sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:padding="8dp">
+
+                <ImageView
+                    android:id="@+id/profileBtn"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:src="@drawable/profile"
+                    android:background="@drawable/image_button_bg"
+                    android:scaleType="centerInside"
+                    android:padding="12dp"
+                    android:contentDescription="Profile" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Profile"
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    android:layout_marginTop="6dp" />
+            </LinearLayout>
+
+            <!-- Quiz -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:padding="8dp">
+
+                <ImageView
+                    android:id="@+id/quizBtn"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:src="@drawable/quiz"
+                    android:background="@drawable/image_button_bg"
+                    android:scaleType="centerInside"
+                    android:padding="12dp"
+                    android:contentDescription="Quiz" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Skin Quiz"
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    android:layout_marginTop="6dp" />
+            </LinearLayout>
+
+            <!-- Tips -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:padding="8dp">
+
+                <ImageView
+                    android:id="@+id/tipsBtn"
+                    android:layout_width="140dp"
+                    android:layout_height="140dp"
+                    android:src="@drawable/tips"
+                    android:background="@drawable/image_button_bg"
+                    android:scaleType="centerInside"
+                    android:padding="12dp"
+                    android:contentDescription="Tips" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Beauty Tips"
+                    android:textColor="#000000"
+                    android:textSize="14sp"
+                    android:layout_marginTop="6dp" />
+            </LinearLayout>
+
+        </GridLayout>
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

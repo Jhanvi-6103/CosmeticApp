@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/favourite"
+        android:title="Favorites"
+        android:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+
+    <item
+        android:id="@+id/action_cart"
+        android:icon="@drawable/cart"
+        android:title="Cart"
+        android:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+</menu>
